@@ -1,4 +1,4 @@
-# Daniel Telárik
+# Daniel Telarik
 
 **Senior Engineering Manager | 15+ years | Remote-first leadership | WordPress ecosystem experience**
 
