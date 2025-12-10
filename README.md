@@ -1,16 +1,17 @@
-## Hi there 👋
+# Daniel Telárik
 
-<!--
-**telarikd/telarikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Engineering Manager | 15+ years | Remote-first leadership | WordPress ecosystem experience**
 
-Here are some ideas to get you started:
+I build and lead distributed engineering teams across Europe, with a focus on  
+people growth, predictable delivery, and high-quality engineering standards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I enjoy working on
+- Developing engineers and strengthening team autonomy  
+- Coaching team leads and building psychologically safe environments  
+- Improving engineering processes and standardizing delivery workflows  
+- Supporting WordPress teams through quality practices and mentoring  
+
+### This GitHub
+This profile will be used for the Syde GmbH pull-request assignment.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/danieltelarik/
