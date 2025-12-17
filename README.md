@@ -12,6 +12,5 @@ people growth, predictable delivery, and high-quality engineering standards.
 - Supporting WordPress teams through quality practices and mentoring  
 
 ### This GitHub
-This profile will be used for the Syde GmbH pull-request assignment.
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/danieltelarik/
